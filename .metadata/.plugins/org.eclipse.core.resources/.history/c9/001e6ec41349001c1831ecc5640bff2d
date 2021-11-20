@@ -1,0 +1,28 @@
+package fellowship.Javasample;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	public static final Logger LOG=LogManager.getLogger(App.class);
+	private static String log4j;
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        System.out.println("Hello java!!!!!");
+        System.out.println("hello world java !!!!!");
+         LOG.debug(log4j+"this message will print debug message");
+         LOG.info(log4j+"this message will print info message");
+         LOG.error(log4j+"this message will print error message");
+         LOG.warn(log4j+"this message will print warn message");
+         LOG.fatal(log4j+"this message will print fatal message");
+         
+
+
+    }
+}
