@@ -1,0 +1,19 @@
+INFO  | 2021-11-19 13:47:36 | [main] Javasample.App (App.java:20) - nullthis message will print info message
+ERROR | 2021-11-19 13:47:36 | [main] Javasample.App (App.java:21) - nullthis message will print error message
+WARN  | 2021-11-19 13:47:36 | [main] Javasample.App (App.java:22) - nullthis message will print warn message
+FATAL | 2021-11-19 13:47:36 | [main] Javasample.App (App.java:23) - nullthis message will print fatal message
+DEBUG | 2021-11-19 13:48:23 | [main] Javasample.App (App.java:19) - nullthis message will print debug message
+INFO  | 2021-11-19 13:48:23 | [main] Javasample.App (App.java:20) - nullthis message will print info message
+ERROR | 2021-11-19 13:48:23 | [main] Javasample.App (App.java:21) - nullthis message will print error message
+WARN  | 2021-11-19 13:48:23 | [main] Javasample.App (App.java:22) - nullthis message will print warn message
+FATAL | 2021-11-19 13:48:23 | [main] Javasample.App (App.java:23) - nullthis message will print fatal message
+DEBUG | 2021-11-19 14:06:19 | [main] Javasample.App (App.java:18) - HEllo worldthis message will print debug message
+INFO  | 2021-11-19 14:06:19 | [main] Javasample.App (App.java:19) - HEllo worldthis message will print info message
+ERROR | 2021-11-19 14:06:19 | [main] Javasample.App (App.java:20) - HEllo worldthis message will print error message
+WARN  | 2021-11-19 14:06:19 | [main] Javasample.App (App.java:21) - HEllo worldthis message will print warn message
+FATAL | 2021-11-19 14:06:19 | [main] Javasample.App (App.java:22) - HEllo worldthis message will print fatal message
+DEBUG | 2021-11-19 14:07:09 | [main] Javasample.App (App.java:19) - HEllo worldthis message will print debug message
+INFO  | 2021-11-19 14:07:09 | [main] Javasample.App (App.java:20) - HEllo worldthis message will print info message
+ERROR | 2021-11-19 14:07:09 | [main] Javasample.App (App.java:21) - HEllo worldthis message will print error message
+WARN  | 2021-11-19 14:07:09 | [main] Javasample.App (App.java:22) - HEllo worldthis message will print warn message
+FATAL | 2021-11-19 14:07:09 | [main] Javasample.App (App.java:23) - HEllo worldthis message will print fatal message
