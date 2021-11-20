@@ -16,7 +16,7 @@ public class App
     {
     	
     	String message="HEllo world";
-         LOG.debug(message+"this message will print debug message");
+         LOG.debug(message+"this message will print debug and debug massege");
          LOG.info(message+"this message will print info message");
          LOG.error(message+"this message will print error message");
          LOG.warn(message+"this message will print warn message");
