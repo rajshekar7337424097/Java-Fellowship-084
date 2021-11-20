@@ -18,7 +18,7 @@ public class App
     	String message="HEllo world";
          LOG.debug(message+"this message will print debug and debug massege");
          LOG.info(message+"this message will print info message");
-         LOG.error(message+"this message will print error message");
+         LOG.error(message+"this message will print error message and print error");
          LOG.warn(message+"this message will print warn message");
          LOG.fatal(message+"this message will print fatal message");
          System.out.println( "Hello World!" );
